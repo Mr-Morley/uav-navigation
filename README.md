@@ -1,4 +1,4 @@
-![Eish Image](eish.jpg)
+![Eish Image](eish.jpeg)
 This is a Southbit employee holding my laptop's SSD.
 
 I possess the classes and preprocessing scripts, though they are arranged in a perplexing manner across various versions.
