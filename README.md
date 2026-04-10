@@ -13,7 +13,7 @@ Built using real flight data from a Milkor UCAV 380 (fixed-wing MALE UAV) with w
 
 The full write-up covering data preprocessing, system design, and all experimental results:
 
-📥 [`Report.pdf`](Report.pdf)
+[`Report.pdf`](Report.pdf)
 
 ---
 
